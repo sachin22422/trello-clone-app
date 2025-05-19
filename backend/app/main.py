@@ -13,9 +13,9 @@ app = FastAPI(title="Task Board API")
 
 # CORS Configuration
 origins = [
-    os.getenv("FRONTEND_URL", "http://localhost:5173"), # Vite default
-    "http://localhost:3000", # Common React dev port
-    # Add deployed frontend URL here
+    "https://trello-clone-app-cyan.vercel.app", 
+    os.getenv("FRONTEND_URL", "http://localhost:5173"),
+    "http://localhost:3000",
 ]
 
 app.add_middleware(
