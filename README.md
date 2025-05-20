@@ -2,13 +2,13 @@
 
 This is a simple Trello-like task management board built with React (Vite + Tailwind CSS) for the frontend and Python (FastAPI + SQLAlchemy) for the backend.
 
-## Live Demo
+## Deployed Link
 
-[Link to your deployed application will go here after deployment]
+[(https://trello-clone-app-cyan.vercel.app/)]
 
 ## Demo Video
 
-[Link to your demo video will go here after you record it]
+[(https://drive.google.com/file/d/1_PAaRHhEyMaQpKI-pyCJf6NcVVeV9pSa/view?usp=drive_link)]
 
 ## Features
 
@@ -39,10 +39,6 @@ trello-clone/
     *   FastAPI
     *   SQLAlchemy (with SQLite for development)
     *   Uvicorn (ASGI server)
-*   **Deployment:**
-    *   Frontend: [Vercel/Netlify - specify which one you used]
-    *   Backend: [Render/Railway/Fly.io - specify which one you used]
-    *   Database: [e.g., SQLite for local, Render PostgreSQL for deployment]
 
 ## Setup and Installation
 
@@ -115,11 +111,6 @@ trello-clone/
     ```
     The frontend will be available at `http://localhost:5173`.
 
-## AI Usage Declaration (If Applicable)
-
-*   [Specify if AI (e.g., ChatGPT, GitHub Copilot) was used for any part of the development.]
-*   [If yes, briefly describe how and for what parts.]
-*   [If you have chat logs and are required to share them, mention where they can be found, e.g., "Chat logs with AI tools are included in the `/ai_chats` directory or linked here: [link]"]
 
 ## Design Choices
 
